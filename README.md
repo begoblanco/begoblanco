@@ -1,5 +1,7 @@
+# ❤️ Hi, I'm Bego! ❤️
+Welcome!
 # 💫 About Me:
-I'm always learning new things!<br>I'm fluent in English and Spanish! I also speak a little bit of French and I would love to learn new languages, being japanese my main priority!<br>Some of my interests include art and design, electronics and microbiology.<br>
+I'm always learning new things!<br>I'm fluent in English and Spanish! I also speak a little bit of French and I would love to learn new languages, being japanese my main priority!<br>Some of my other interests include art and design, electronics and microbiology.<br>
 <img alt="girls last tour gif" src=https://media1.tenor.com/m/Qr3RDQwE0o0AAAAC/girls-last-tour-shoujo-shuumatsu-ryokou.gif>
 
 # 💻 Tech Stack:
