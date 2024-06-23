@@ -27,7 +27,7 @@ Welcome! I'm happy to meet you!! 💌​
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/begoblanfer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/begoblanfer/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=begoblanco&icon=9&color=10)](https://visitcount.itsvg.in)
