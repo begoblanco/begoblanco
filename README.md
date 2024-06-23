@@ -1,15 +1,12 @@
 # ❤️ Hi, I'm Bego! ❤️
 Welcome! I'm happy to meet you!! 💌​
-
-
- /)  /)  ~ ┏━━━━━━━━━━━━━━━━━┓<br>
-  ( •-• )  ~ ♡ You are amazing ♡<br>
-    /づづ ~ ┗━━━━━━━━━━━━━━━━━┛
-
-
+<p>｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆   </p>
+<p><img alt="gif" src=https://media1.tenor.com/m/P7hCyZlzDH4AAAAC/wink-anime.gif></p>
+<p>｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆   </p>
 
 # 💫 About Me:
 <p> ♡ I'm an Environmental Health Technician! 🌺​</p>
+<p> ♡ I really enjoy programming! I'm currently doing a full stack web development bootcamp! ​</p>
 <p> ♡ I'm a very curious person and I'm always learning new things! I'm very pasionate about everything I do!</p>
 <p> ♡ I'm fluent in English and Spanish! I also speak a little bit of French and I would love to learn new languages, being Japanese my main priority atm!</p>
 <p> ♡ Some of my other interests include art and design, electronics and microbiology.</p>
@@ -19,7 +16,7 @@ Welcome! I'm happy to meet you!! 💌​
 <p>｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆   </p>
 
 
-<p><img alt="girls last tour gif" src=https://media1.tenor.com/m/Qr3RDQwE0o0AAAAC/girls-last-tour-shoujo-shuumatsu-ryokou.gif></p>
+<p><img alt="gif" src=https://media1.tenor.com/m/2PB70c2DvQkAAAAC/lucky-star-anime.gif></p>
 
 <p>｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆   </p>
 
