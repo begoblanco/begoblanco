@@ -25,7 +25,13 @@ Welcome! I'm happy to meet you!! 💌​
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=begoblanco&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bego-blanco-21b93b315) 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=begoblanco&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=begoblanco&icon=9&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
