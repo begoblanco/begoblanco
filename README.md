@@ -1,4 +1,4 @@
-# ❤️ Hi, I'm Bego! ❤️
+# 💜 Hi, I'm Bego! 💜
 Welcome! I'm happy to meet you!! 💌​
 <p>｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆   </p>
 <p><img alt="gif" src=https://media1.tenor.com/m/P7hCyZlzDH4AAAAC/wink-anime.gif></p>
