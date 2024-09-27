@@ -5,11 +5,11 @@ Welcome! I'm happy to meet you!! 💌​
 <p>｡･:*:･ﾟ★,｡･:*:･ﾟ☆｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆   </p>
 
 # 💫 About Me:
-<p> ♡ I'm an Environmental Health Technician! 🌺​</p>
-<p> ♡ I really enjoy programming! I'm currently doing a full stack web development bootcamp! ​</p>
+<p> ♡ I'm a Full-Stack Web Developer and an Environmental Health Technician! 🌺​</p>
+<p> ♡ I really enjoy programming! I love seeing the results of my hard work ​</p>
 <p> ♡ I'm a very curious person and I'm always learning new things! I'm very pasionate about everything I do!</p>
 <p> ♡ I'm fluent in English and Spanish! I also speak a little bit of French and I would love to learn new languages, being Japanese my main priority atm!</p>
-<p> ♡ Some of my other interests include art and design, electronics and microbiology.</p>
+<p> ♡ Some of my other interests include art and design, 3D modeling, electronics and microbiology.</p>
 <p> ♡ I also really love cats 🐈💕​​</p>
 
 
